@@ -1,0 +1,3 @@
+#!/bin/bash
+
+rsync -avzr --delete --exclude '*~' public_html/ science:~/public_html
