@@ -2,3 +2,6 @@ IndexOptions +Charset=utf-8
 AddDefaultCharset utf-8
 
 Redirect /~grussd/index.html /~grussd/main/
+
+Options +Includes
+XBitHack on
