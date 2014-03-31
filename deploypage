@@ -1,3 +1,4 @@
 #!/bin/bash
 
+chmod +x public_html/main/index.html
 rsync -avzr --delete --exclude '*~' public_html/ science:~/public_html
