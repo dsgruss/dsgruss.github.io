@@ -1,6 +1,6 @@
-webmain
-=======
+dsgruss.github.io
+=================
 
-Public academic website
+Public personal website
 
 This is the source code.
