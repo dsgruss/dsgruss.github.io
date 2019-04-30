@@ -11,7 +11,7 @@ Please check my [Google Scholar](http://scholar.google.com/citations?user=ojlhWV
 
 ### Papers
 
-C.C. Chien, D. Gruss, M. Di Ventra, and M. Zwolak. An energy-resolved atomic scanning probe,  
+D. Gruss, C.C. Chien, J. Barreiro, M. Di Ventra, and M. Zwolak. An energy-resolved atomic scanning probe,  
 [_New J. Phys._ **20** (2018) 115005](https://iopscience.iop.org/article/10.1088/1367-2630/aaedcf/meta),
 [arXiv preprint arXiv:1610.01903](http://arxiv.org/abs/1610.01903)
 
