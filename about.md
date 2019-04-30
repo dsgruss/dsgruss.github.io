@@ -1,0 +1,67 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+![me](./assets/img/me.jpg){:width="150" border="5"}
+
+## Publications
+
+[Google Scholar](http://scholar.google.com/citations?user=ojlhWVkAAAAJ&amp;hl=en)
+
+### Papers
+
+C.C. Chien, D. Gruss, M. Di Ventra, and M. Zwolak. An energy-resolved atomic scanning probe,  
+[arXiv preprint arXiv:1610.01903](http://arxiv.org/abs/1610.01903)
+
+D. Gruss, K. A. Velizhanin, and M. Zwolak. Landauer's formula with finite-time relaxation: Kramers' crossover in electronic transport,  
+[_Sci. Rep._ **6**, 24514 (2016)](http://www.nature.com/articles/srep24514),
+[arXiv preprint arXiv:1604.02962](http://arxiv.org/abs/1604.02962)
+
+C.C. Chien, D. Gruss, M. Di Ventra, and M. Zwolak. Interaction-induced conducting-nonconducting transition of ultra-cold atoms in 1d optical lattices,  
+[_New J. Phys._ **15** (2013) 063026](http://stacks.iop.org/1367-2630/15/063026),
+[arXiv preprint arXiv:1203.5094](http://arxiv.org/abs/1203.5094v2)
+
+### Thesis
+
+Doctoral Dissertation: Quantum and Classical Simulation of Electronic Transport at the Nanoscale  
+[ScholarsArchive@OSU](http://hdl.handle.net/1957/59108), [PDF](./assets/papers/GrussDanielS2016.pdf), 2016.
+
+Honors Undergraduate Thesis: Applied Computing Techniques for Holographic Optical Tweezers  
+[OSU Library Collections](http://ir.library.oregonstate.edu/xmlui/bitstream/handle/1957/17625/Full%20ThesisGruss.pdf), 2010.
+
+### Presentations
+
+* APS March Meeting 2016 - [A24.00006](http://meetings.aps.org/Meeting/MAR16/Session/A24.6)
+* APS March Meeting 2014 - [Y35.00010](http://meetings.aps.org/Meeting/MAR14/Event/216394)
+* APS March Meeting 2013 - [B41.00009](./assets/presentations/apsmarch2013.pdf)
+
+## Research
+
+[Zwolak Research Group](http://mike.zwolak.org/group/)
+
+## Education
+
+#### Oregon State University, Fall 2010 - Spring 2016
+
+College of Science, Doctor of Philosophy Physics
+
+#### Oregon State University, Winter 2007 - Spring 2010
+
+College of Science, H.B.S. Computational Physics, H.B.S. Physics (Applied Option),  
+College of Engineering, H.B.S. Engineering Physics,  
+Computer Science Minor, Summa Cum Laude,  
+Undergraduate thesis: Applied Computing Techniques for Holographic Optical Tweezers
+
+## Teaching
+
+* Spring 2015 - [Physics 205](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=PH&coursenumber=205)/[206](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=PH&coursenumber=206)/[207](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=PH&coursenumber=207)
+* Winter 2015 - [Physics 205](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=PH&coursenumber=205)/[206](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=PH&coursenumber=206)/[207](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=PH&coursenumber=207)
+* Fall 2014 - [Physics 205](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=PH&coursenumber=205)/[206](http://catalog.oregonstate.edu/CourseDetail.aspx?subjectcode=PH&coursenumber=206)
+* Summer 2014 - [Physics 201](http://physics.oregonstate.edu/~walshke/COURSES/ph201/?q=ph201)
+* Spring 2014 - [Physics 575](http://physics.oregonstate.edu/~tate/COURSES/ph575/)
+* Winter 2014 - [Physics 202](http://www.physics.oregonstate.edu/~walshke/COURSES/ph202/)
+* Fall 2013 - [Physics 421](http://www.physics.oregonstate.edu/~grahamat/COURSES/ph421/)
+* Spring 2013 - [Physics 423](http://physics.oregonstate.edu/~roundyd/COURSES/ph423/)
+* Winter 2013 - [Physics 424](http://www.physics.oregonstate.edu/~minote/COURSES/ph424/doku.php)
+* Fall 2012 - [Physics 320](http://physics.oregonstate.edu/~roundyd/COURSES/ph320/?q=ph320), [Physics 422/522](http://www.physics.oregonstate.edu/~kustuscm/COURSES/ph422/)
