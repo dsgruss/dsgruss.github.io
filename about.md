@@ -3,15 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
-![me](./assets/img/me.jpg){:width="150" border="5"}
+![me](./assets/img/me.jpg){:width="150" border="5" align="right"}
 
 ## Publications
 
-[Google Scholar](http://scholar.google.com/citations?user=ojlhWVkAAAAJ&amp;hl=en)
+Please check my [Google Scholar](http://scholar.google.com/citations?user=ojlhWVkAAAAJ&amp;hl=en) page for an updated and sortable list of publications.
 
 ### Papers
 
 C.C. Chien, D. Gruss, M. Di Ventra, and M. Zwolak. An energy-resolved atomic scanning probe,  
+[_New J. Phys._ **20** (2018) 115005](https://iopscience.iop.org/article/10.1088/1367-2630/aaedcf/meta),
 [arXiv preprint arXiv:1610.01903](http://arxiv.org/abs/1610.01903)
 
 D. Gruss, K. A. Velizhanin, and M. Zwolak. Landauer's formula with finite-time relaxation: Kramers' crossover in electronic transport,  
