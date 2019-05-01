@@ -15,6 +15,17 @@ D. Gruss, C.C. Chien, J. Barreiro, M. Di Ventra, and M. Zwolak. An energy-resolv
 [_New J. Phys._ **20** (2018) 115005](https://iopscience.iop.org/article/10.1088/1367-2630/aaedcf/meta),
 [arXiv preprint arXiv:1610.01903](http://arxiv.org/abs/1610.01903)
 
+D. Gruss, A. Smolyanitsky, and M. Zwolak. Graphene deflectometry for sensing molecular processes at the nanoscale,  
+[arXiv preprint arXiv:1804.02701](https://arxiv.org/abs/1804.02701)
+
+J. Elenewski, D. Gruss, and M. Zwolak, Communication: Master equations for electron transport: The limits of the Markovian limit,  
+[_J. Chem. Phys._ **147**, 151101 (2017)](https://aip.scitation.org/doi/abs/10.1063/1.5000747),
+[arXiv preprint arXiv:1705.00566](https://arxiv.org/abs/1705.00566)
+
+D. Gruss, A. Smolyanitsky, and M. Zwolak. Communication: Relaxation-limited electronic currents in extended reservoir simulations,  
+[_J. Chem. Phys._ **147**, 141102 (2017)](https://aip.scitation.org/doi/abs/10.1063/1.4997022),
+[arXiv preprint arXiv:1707.06650](https://arxiv.org/abs/1707.06650)
+
 D. Gruss, K. A. Velizhanin, and M. Zwolak. Landauer's formula with finite-time relaxation: Kramers' crossover in electronic transport,  
 [_Sci. Rep._ **6**, 24514 (2016)](http://www.nature.com/articles/srep24514),
 [arXiv preprint arXiv:1604.02962](http://arxiv.org/abs/1604.02962)
