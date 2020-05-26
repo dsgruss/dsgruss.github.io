@@ -86,11 +86,11 @@ Zwolak Research Group
 
 ## Education
 
-#### Oregon State University, Fall 2010 - Spring 2016
+#### [Oregon State University](https://oregonstate.edu/), Fall 2010 - Spring 2016
 
 College of Science, Doctor of Philosophy Physics
 
-#### Oregon State University, Winter 2007 - Spring 2010
+#### [Oregon State University](https://oregonstate.edu/), Winter 2007 - Spring 2010
 
 College of Science, H.B.S. Computational Physics, H.B.S. Physics (Applied Option),  
 College of Engineering, H.B.S. Engineering Physics,  
