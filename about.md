@@ -25,20 +25,16 @@ permalink: /about/
 
 ## Work Experience
 
-#### Postdoctoral Research Associate (2016 - 2017)  
-*National Institute of Standards and Technology/University of Maryland* -
-Continuation of graduate school research: worked at the Center for Nanoscale Science and Technology on electron transfer processes in sensing, catalysis, and nanoelectronics, as well as developed computational methodology for complex systems.
-
-#### Graduate Student Researcher (2015 - 2016)
-*National Institute of Standards and Technology/University of Maryland* -
-Worked at the Center for Nanoscale Science and Technology on electron transfer processes in sensing, catalysis, and nanoelectronics, as well as developed computational methodology for complex systems.
+#### Postdoctoral Research Associate (2016 - 2017), Graduate Student Researcher (2015 - 2016)
+*[National Institute of Standards and Technology](https://www.nist.gov/)/[University of Maryland](https://umd.edu/)* -
+Worked at the [Center for Nanoscale Science and Technology](https://www.nist.gov/cnst) on electron transfer processes in sensing, catalysis, and nanoelectronics, as well as developed computational methodology for complex systems.
 
 #### Graduate Research Assistant (2011 - 2015)
-*Oregon State University* -
+*[Oregon State University](https://oregonstate.edu/)* -
 Investigations of dynamics of quantum systems: fermionic transport in interacting systems, numerical methods of time evolution (time-dependent density matrix renormalization group [tDMRG], matrix product states), open quantum systems, quantum to classical transitions in non-equilibrium steady states.
 
 #### Teaching Assistant (2010 - 2015)
-*Oregon State University* -
+*[Oregon State University](https://oregonstate.edu/)* -
 Teaching assistant for a broad range of physics courses: general physics with and without calculus, upper division programs, online-based astronomy sequence, and graduate level solid state physics.
 
 ## Publications
