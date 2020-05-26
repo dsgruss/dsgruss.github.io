@@ -50,7 +50,7 @@ Honors Undergraduate Thesis: Applied Computing Techniques for Holographic Optica
 
 ## Research
 
-[Zwolak Research Group](http://mike.zwolak.org/group/)
+Zwolak Research Group
 
 ## Education
 
