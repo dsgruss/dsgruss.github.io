@@ -65,7 +65,7 @@ permalink: /about/
   but I'm not terribly attached to it.
 
 * Other things I've had some experience with in my research career: **Julia** (at the time it was
-  very early in it's development), **R** (which was a little rough with complex matrix
+  very early in its development), **R** (which was a little rough with complex matrix
   exponentials), **MATLAB** (did a lot of early work here but ran into licensing issues and
   [Octave](https://www.gnu.org/software/octave/) was very slow at the time), **Fortran** (inherited
   simulation code), **AWS** (using spot instances to price out certain calculations) and
